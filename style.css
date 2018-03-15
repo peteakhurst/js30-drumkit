@@ -52,7 +52,7 @@ kbd {
   color: #fae1c8;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 670px) {
   .keys {
     flex-wrap: wrap;
     margin: 0;
